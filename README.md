@@ -1,4 +1,4 @@
-A passionate frontend dev, that loves to draw, love ASCII art and to edit videos!
+A passionate-future-fullstack dev, that loves to draw, love ASCII art and to edit videos!
 
  <p>&nbsp&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;  /\__/\<br>
  &nbsp; &nbsp; &nbsp; &nbsp; ꒰˶• ༝ •˶꒱ ~<br>
